@@ -1,1 +1,1 @@
-# Matplotlib-Tutorial
+# Matplotlib Learning and Practice Repository
